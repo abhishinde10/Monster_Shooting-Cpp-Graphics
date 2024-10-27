@@ -29,4 +29,4 @@ A 2D shooting game developed in C++ using the `graphics.h` library. The player c
 3. **Clone or Download the Project**:
    ```bash
    https://github.com/abhishinde10/Monster_Shooting-Cpp-Graphics
-   cd monster-shooter-game
+
